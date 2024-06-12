@@ -1,0 +1,61 @@
+custom-margin-body{
+  margin-top: -1000px;
+}
+
+#menu{
+  margin-top: 100px;
+}
+
+#about{
+  margin-top: 0px;
+}
+
+/* Custom CSS for image resizing */
+.custom-card-img {
+  width: 297px; /* Adjust as needed */
+  height: 80px; /* Maintain aspect ratio */
+}
+
+/* Custom CSS for text in "About" text*/
+.custom-text {
+  margin-top: 55px;
+  font-size: 22px;
+}
+
+.custom-logo {
+  width: 470px;
+  height:280px;
+}
+
+.custom-margin{
+  margin-bottom: 100px;
+}
+
+.custom-margin2{
+  margin-left: 200px;
+}
+
+
+.custom a{
+  text-decoration: none;
+  cursor: default;
+}
+
+.custom img{
+  border-radius: 100px;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+#btt{
+  border-radius: 50%;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  } 
+
+.bg-color{
+  background-color: #FFBF78;
+}

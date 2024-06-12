@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-image: url('img/bg.png');
+    opacity: 0.8;
+}
+.custom-input{
+    border-radius: 10px;
+    height: 40px;
+    background-color: black;
+}
+
+input.form-control {
+    background-color: black;
+}
+
+
+.register-btn {
+    background-color: #FF9934;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+}
+
+.register-btn:hover {
+    background-color: #FEC46D;
+}
+
+.ctr-div{
+    margin-top: 7%;
+}
